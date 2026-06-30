@@ -121,3 +121,10 @@ A Python-based project for exploring car information.
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=180&section=footer"/>
 </p>
+---
+
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musa976/musa976/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
