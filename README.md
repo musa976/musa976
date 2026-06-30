@@ -1,74 +1,123 @@
 <!-- Green Header Banner -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header"/>
-</a>
 
-<!-- Main Title -->
-<h1 align="center">👋 Hi there, I'm Musa Imran!</h1>
-<h3 align="center">🧠 12-Year-Old Python Developer | 🌱 Future Tech Leader</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=180&section=header&text=Musa%20Imran&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!-- Typing SVG Animation -->
+<h1 align="center">👋 Hi, I'm Musa Imran</h1>
+
+<h3 align="center">
+Python Developer • Data Science Learner • Open Source Enthusiast
+</h3>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+12+Years+Old;Learning+HTML%2C+CSS%2C+JavaScript;Building+Fun+Projects+%F0%9F%9A%80;Follow+My+Coding+Journey+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&lines=Python+Developer;Learning+Data+Science+%26+Machine+Learning;Building+Awesome+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
   </a>
 </p>
 
 ---
 
-## 📖 About Me
+# 👨‍💻 About Me
 
-- 🎓 I’m a self-taught developer, learning Python and web development
-- 🔭 I’m currently building **cool beginner projects**
-- ✨ I love exploring **tech, games, and creative coding**
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
-- 💬 Ask me about **Python** — I love helping others!
-- 🎯 Goal: Become a **full-stack developer**
+* 🐍 Python Developer
+* 📊 Learning Data Science & Machine Learning
+* 💻 Building Python Projects
+* 📚 Currently improving my programming skills every day
+* 🚀 Interested in Automation, AI, and Data Analysis
+* 🌱 Currently learning HTML, CSS, JavaScript & SQL
+* 🎯 Goal: Become a Professional Python Developer & Data Scientist
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 🧠 Currently Learning
+# 📂 Featured Projects
 
-- 📘 Python (Advanced)
-- 🎨 Web design with HTML/CSS
-- ⚙️ JavaScript basics
-- 🧩 Logic & problem-solving with code
+### 🚗 Car Information Dataset
+
+A dataset for practicing Data Analysis and Machine Learning.
+
+### 📊 Sales Data EDA
+
+Exploratory Data Analysis using Pandas, Matplotlib, and Seaborn.
+
+### 📝 My Notes App
+
+A simple notes application built with Python.
+
+### 🚘 CarCompass
+
+A Python-based project for exploring car information.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=musa976&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=musa976&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📬 Contact Me
+# 📊 Most Used Languages
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <!-- Optional: Add social icons here -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musa976&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<!-- Footer Banner -->
+# 🌱 Currently Learning
+
+* Advanced Python
+* Data Analysis
+* Machine Learning
+* SQL
+* HTML & CSS
+* JavaScript
+* Git & GitHub
+
+---
+
+# 📫 Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
+
+<a href="https://github.com/musa976">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a Star!
+
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=180&section=footer"/>
 </p>
